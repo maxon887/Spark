@@ -7,3 +7,4 @@ Power Consumption: 0.3W(5v, 60mA), Screen 16mW(3.3v, 5mA), Sensor 0w?
 Life Time: ~8h
 Battery Capacity: 600mAh
 Features: Screen, Temperature, Humidity
+Components:
