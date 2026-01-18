@@ -1,0 +1,9 @@
+Power Consumption: 0.3W(5v, 60mA), Screen 16mW(3.3v, 5mA), Sensor 0w?
+	Board USB: 		 0.25W(5v, 50mA)
+	Board Shield: 	 0.3W(4v, 75mA)
+	Board Barrel: 	 0.4W(8v, 50mA)
+	Board Direct 5v: 0.23w(5v, 45mA)
+	Board Direct 4v: 0.12w(4v, 30mA)
+Life Time: ~8h
+Battery Capacity: 600mAh
+Features: Screen, Temperature, Humidity
